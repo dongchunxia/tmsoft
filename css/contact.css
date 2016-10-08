@@ -1,0 +1,18 @@
+#home{
+	border: none;
+}
+#contact{
+	border-top: 2px solid #2EEB91;
+}
+.contact-top>img{
+	width: 100%;
+	height: 100%;
+}
+.contact-main {
+	position: absolute;
+	left: 62%;
+	top: 60%;
+	color: #E0E0E0;;
+	font-size: 0.9rem; 
+	line-height: 1.5;
+}
